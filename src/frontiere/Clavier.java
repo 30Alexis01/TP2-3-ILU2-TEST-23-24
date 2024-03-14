@@ -1,4 +1,4 @@
-package frontiere;
+x	package frontiere;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
